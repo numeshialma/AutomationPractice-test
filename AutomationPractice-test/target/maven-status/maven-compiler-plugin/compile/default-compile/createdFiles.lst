@@ -1,0 +1,6 @@
+AutomationPractice\RegisterPage.class
+utils\TestApp.class
+AutomationPractice\SignInPage.class
+utils\PropertyFileReader.class
+AutomationPractice\HomePage.class
+AutomationPractice\RegisterSuccessPage.class
